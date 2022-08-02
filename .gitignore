@@ -1,0 +1,7 @@
+#db, web
+.DS_Store
+
+# python
+dist
+*.egg-info
+build
