@@ -15,3 +15,5 @@ It includes the following packages:
 This package includes everything required to interface with LabOne form within Python.
 For more information see the dedicated package documentation or the
 [online documentation](https://docs.zhinst.com).
+
+WARNING: Upgrading from version <= 22.02 to 22.08 requires to uninstall this package first and the reinstalling it, `--upgrade` will corrupt the package.  
