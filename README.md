@@ -1,7 +1,6 @@
 # Zurich Instruments LabOne Packages
 
-![Zurich Instruments Arbitrary Waveform Generator and monitor showing LabOne Software](https://people.zhinst.com/~danielw/pypi/hdawg_labone_pic02.jpg)
-
+![](https://github.com/zhinst/zhinst-meta/blob/main/thumbnail.jpg)
 
 The `zhinst` package is purely a metapackage that installs the whole Python API
 stack for LabOne&reg;, the Zurich Instruments control software.
